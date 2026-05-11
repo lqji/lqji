@@ -29,7 +29,7 @@ I specialize in developing robust architectures using C# and .NET, while also ex
 
 <div align="center">
   <!-- Standard Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lqji&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=lqji&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" /> -->
   
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lqji&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
