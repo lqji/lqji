@@ -8,9 +8,6 @@ I am a Software Engineering Trainee at Codeline by Rihal and a graduate of Majan
 ### What I Do
 I specialize in developing robust architectures using C# and .NET, while also expanding my expertise in mobile application development with Swift. Additionally, as a Certified Unity Programmer, I enjoy bringing a unique perspective to interactive software design. For me, software engineering is an endless learning curve. I spend a lot of my time researching new design patterns, optimizing backend logic, and refining my problem-solving skills. I genuinely enjoy figuring out how things work under the hood.
 
-### Currently Building
-Right now, I am architecting the backend for a comprehensive project called "The Digital Barista". It serves as a great environment for me to apply clean code principles, test out new concepts, and push my technical understanding of .NET further.
-
 ### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
