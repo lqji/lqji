@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hi, I'm Ahmed Abdullah!</h1>
+  <h1>Hi, I'm Ahmed Abdullah 👋</h1>
+  <h3>Software Engineer | Lifelong Learner</h3>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer;Creative+Technologist;Gym+Rat+%2B+Gamer" alt="Typing SVG" />
-  </a>
-</div>
+I am a Software Engineering Trainee at Codeline by Rihal and a graduate of Majan University. My primary focus is on building scalable backend systems and creating engaging digital experiences. I am always looking for the next technical challenge to dive into and treat every project as an opportunity to grow.
 
----
+### What I Do
+I specialize in developing robust architectures using C# and .NET, while also expanding my expertise in mobile application development with Swift. Additionally, as a Certified Unity Programmer, I enjoy bringing a unique perspective to interactive software design. For me, software engineering is an endless learning curve. I spend a lot of my time researching new design patterns, optimizing backend logic, and refining my problem-solving skills. I genuinely enjoy figuring out how things work under the hood.
 
-### 👨‍💻 About Me
-I am a **Software Engineering Trainee @ Codeline by Rihal** and a Majan University graduate. I thrive on bridging the gap between compelling visual design and rock-solid backend architecture. Whether it's crafting a sleek mobile layout or building a scalable database, I'm all about clean code and creative solutions.
+### Currently Building
+Right now, I am architecting the backend for a comprehensive project called "The Digital Barista". It serves as a great environment for me to apply clean code principles, test out new concepts, and push my technical understanding of .NET further.
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -24,20 +21,6 @@ I am a **Software Engineering Trainee @ Codeline by Rihal** and a Majan Universi
 
 <br>
 
-* 🚀 **Currently Architecting:** A comprehensive C#/.NET backend project ("The Digital Barista").
-* 📜 **Certifications:** Certified Unity Programmer.
-
-### ⚡ Beyond the IDE
-When I'm not pushing commits, my system is still running at maximum performance:
-
-- 🏋️‍♂️ **The Daily Grind:** Hitting the gym for my daily 2-hour lifting session.
-- 🎮 **The Night Shift:** Pushing my 9800X3D to the limit and clutching rounds in CS2 while the family sleeps.
-- 📸 **The Creative Room:** Experimenting with photography, videography, and graphic design.
-
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="250" alt="Tech GIF">
-  <br>
-  <em>Let's build something epic.</em> 🚀
+  <em>Always learning, always building. Let's connect!</em>
 </div>
