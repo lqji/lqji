@@ -28,8 +28,11 @@ I specialize in developing robust architectures using C# and .NET, while also ex
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lqji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lqji&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+  <!-- Standard Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lqji&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lqji&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
