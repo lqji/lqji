@@ -15,6 +15,13 @@ I am a Software Engineering Trainee at Codeline by Rihal and a graduate of Majan
 
 I specialize in developing robust architectures using C# and .NET, while also expanding my expertise in mobile application development with Swift. Additionally, as a Certified Unity Programmer, I enjoy bringing a unique perspective to interactive software design. For me, software engineering is an endless learning curve. I spend a lot of my time researching new design patterns, optimizing backend logic, and refining my problem-solving skills. I genuinely enjoy figuring out how things work under the hood.
 
+### 🚀 Featured Work
+
+- 📱 [Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase) — Quran reader, prayer times, and Qiblah direction, live on the App Store
+- 🤖 [Tanweer for Android](https://github.com/lqji/tanweer-android-showcase) — the same app rebuilt in Kotlin and Jetpack Compose
+- ⌨️ [Type Faster](https://github.com/lqji/type-faster-showcase) — a typing test with personalized coaching and live multiplayer racing, [try it here](https://clartagency.com/type-faster)
+- 🗂️ [Full portfolio](https://github.com/lqji/portfolio) — case studies for all of the above
+
 ### 🛠️ Tech Stack
 
 <div align="center">
