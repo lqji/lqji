@@ -17,7 +17,7 @@ I specialize in developing robust architectures using C# and .NET, while also ex
 
 ### 🚀 Featured Work
 
-- 📱 [Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase) — Quran reader, prayer times, and Qiblah direction, live on the App Store
+- 📱 [Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase) — Quran reader, prayer times, and Qiblah direction, [download it here](https://apps.apple.com/om/app/tanweer-enlighten-your-life/id6773591303)
 - 🤖 [Tanweer for Android](https://github.com/lqji/tanweer-android-showcase) — the same app rebuilt in Kotlin and Jetpack Compose
 - ⌨️ [Type Faster](https://github.com/lqji/type-faster-showcase) — a typing test with personalized coaching and live multiplayer racing, [try it here](https://clartagency.com/type-faster)
 - 🗂️ [Full portfolio](https://github.com/lqji/portfolio) — case studies for all of the above
