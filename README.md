@@ -42,14 +42,6 @@ Software Engineering Trainee at Codeline by Rihal, and a Majan University gradua
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=lqji&theme=github-dark-blue&hide_border=true&background=00000000" height="150" alt="streak" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 [github.com/lqji](https://github.com/lqji)
 
 </div>
