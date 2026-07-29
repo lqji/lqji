@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="banner" />
+
 <h1>Ahmed Abdullah</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2600&pause=1200&color=8A8F98&center=true&vCenter=true&width=440&height=30&lines=software+engineer;building+native+apps+and+web+products" alt="tagline" />
@@ -8,19 +10,19 @@
 
 <br>
 
-Software Engineering Trainee at Codeline by Rihal, and a Majan University graduate. I work across native mobile and full stack web, and I care more about the small details than the big pitch.
+I build things end to end, from the first line of Swift or Kotlin to the backend that keeps it running. Right now I'm a Software Engineering Trainee at Codeline by Rihal, and before that a Majan University graduate who spent too many nights chasing bugs that turned out to be one wrong character.
 
 <br>
 
 ### building
 
-**[Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase)** a Quran reader with prayer times and Qiblah direction. [App Store](https://apps.apple.com/om/app/tanweer-enlighten-your-life/id6773591303)
+**[Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase)** a Quran reader typeset to match the printed Mushaf page for page, with prayer times and Qiblah direction built in. [App Store](https://apps.apple.com/om/app/tanweer-enlighten-your-life/id6773591303)
 
-**[Tanweer for Android](https://github.com/lqji/tanweer-android-showcase)** the same app, rebuilt in Kotlin and Jetpack Compose
+**[Tanweer for Android](https://github.com/lqji/tanweer-android-showcase)** the same app rebuilt natively in Kotlin, matched to the iOS version screen for screen
 
-**[Type Faster](https://github.com/lqji/type-faster-showcase)** a typing test with personalized coaching and live multiplayer racing. [Try it](https://clartagency.com/type-faster)
+**[Type Faster](https://github.com/lqji/type-faster-showcase)** a typing test that actually coaches your weak keys, plus live races against real people. [Try it](https://clartagency.com/type-faster)
 
-**[Portfolio](https://github.com/lqji/portfolio)** case studies for everything above
+**[Portfolio](https://github.com/lqji/portfolio)** how each of these got built, and the bugs that were hardest to track down
 
 <br>
 
