@@ -42,6 +42,16 @@ I build things end to end, from the first line of Swift or Kotlin to the backend
 
 <br>
 
+### activity
+
+<div align="center">
+
+<img src="assets/stats.svg" alt="contribution stats" />
+
+</div>
+
+<br>
+
 <div align="center">
 
 [github.com/lqji](https://github.com/lqji)
