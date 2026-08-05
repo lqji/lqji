@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sphere.gif" width="100%" alt="banner" />
+<img src="assets/portrait.gif" width="100%" alt="banner" />
 
 <h1>Ahmed Abdullah</h1>
 
